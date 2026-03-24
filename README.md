@@ -1,6 +1,6 @@
 # ![WhatsApp Image 2026-03-24 at 12 12 23](https://github.com/user-attachments/assets/a3650672-0963-4f94-a669-22c9f6a348d0)
 
-🩺 BotClínicas — Seu WhatsApp e Instagram atendendo 24h para clínicas
+🩺 Loogi Chat — Seu WhatsApp e Instagram atendendo 24h para clínicas
 
 **O bot que faz clínica nunca mais perder paciente por falta de resposta.**
 
@@ -29,35 +29,3 @@ Ideal para dentistas, clínicas gerais, fisioterapia, psicólogos e pequenas cl�
 - Premium → R$497/mês
 
 ---
-
-## 🛠️ Tecnologias (Stack completa)
-
-**Frontend**  
-- Next.js 15 (App Router)  
-- TypeScript  
-- Tailwind CSS + shadcn/ui  
-- React Query + Zustand  
-- Socket.io (conversas em tempo real)
-
-**Backend**  
-- Node.js + Express  
-- Supabase (PostgreSQL + Auth + Storage)  
-- Redis (filas e rate limit)  
-- BullMQ (jobs de lembretes e campanhas)  
-- WhatsApp Business API (via 360Dialog/Twilio)  
-- Instagram Graph API  
-- Google Calendar API
-
-**Infra**  
-- Sem Docker (roda com `npm install && npm run dev`)  
-- Variáveis de ambiente em `.env`  
-- Deploy fácil no Vercel (frontend) + Railway/Render (backend)
-
----
-
-## 🚀 Como rodar localmente (super simples)
-
-1. Clone o repositório
-   ```bash
-   git clone https://github.com/seuusuario/botclinicas.git
-   cd botclinicas
