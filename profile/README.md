@@ -1,1 +1,1 @@
-# ![WhatsApp Image 2026-03-24 at 12 12 23](https://github.com/user-attachments/assets/a3650672-0963-4f94-a669-22c9f6a348d0)
+<img width="1254" height="1254" alt="loogi-sidebar-brand-Z8kKzC-X" src="https://github.com/user-attachments/assets/04776ec5-b677-47c4-b42e-e8ccbf751c6b" />
